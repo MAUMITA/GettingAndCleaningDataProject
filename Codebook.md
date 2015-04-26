@@ -31,7 +31,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ##### train/y_train.txt
 
 #### STEP2 : Read the data
-#####VARIABLES :Values of Varible Activity consist of data from “Y_train.txt” and “Y_test.txt”
+#####VARIABLES :
+Values of Varible Activity consist of data from “Y_train.txt” and “Y_test.txt”
 values of Varible Subject consist of data from “subject_train.txt” and subject_test.txt"
 Values of Varibles Features consist of data from “X_train.txt” and “X_test.txt”
 Names of Varibles Features come from “features.txt”
